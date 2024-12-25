@@ -1,13 +1,13 @@
 # UNIC V2 RV
 
-**UNIC V2 RV** to narzędzie do usuwania plików tymczasowych, plików cache oraz logów z platform gier takich jak Epic Games oraz Steam. Program umożliwia także integrację z Discord, wysyłając powiadomienia o zakończeniu procesu czyszczenia.
+**UNIC V2 RV** to narzędzie do usuwania plików tymczasowych, plików cache oraz logów z platform gier takich jak Epic Games oraz Steam. Program umożliwia także ręczne wysyłanie powiadomień na Discord za pomocą webhooka, po zakończeniu procesu czyszczenia.
 
 ## Funkcje
 
 - **Usuwanie plików tymczasowych:** Program skanuje system w poszukiwaniu plików tymczasowych, które mogą zajmować cenne miejsce na dysku.
 - **Usuwanie plików cache:** Usuwa pliki cache z aplikacji takich jak Epic Games oraz Steam, co pomaga zwolnić miejsce oraz poprawić wydajność.
 - **Usuwanie logów:** Program usuwa logi generowane przez Epic Games i Steam, które mogą zawierać zbędne dane.
-- **Webhook Discord:** Po zakończeniu procesu czyszczenia, UNIC V2 RV może wysłać powiadomienie na wskazany kanał Discord, informując użytkownika o ukończeniu zadania.
+- **Webhook Discord:** Program pozwala na wysyłanie wiadomości na Discord za pomocą webhooka, co daje użytkownikowi możliwość informowania innych o zakończeniu procesu.
 
 ## Instalacja
 
@@ -22,8 +22,8 @@
    - Usuwanie plików cache
    - Usuwanie logów z Epic Games i Steam
 3. Opcjonalnie, skonfiguruj webhook Discord w pliku konfiguracyjnym.
-4. Kliknij przycisk "Rozpocznij czyszczenie", aby rozpocząć proces.
-5. Program przeprowadzi czyszczenie i powiadomi cię o zakończeniu.
+4. Kliknij przycisk "Rozpocznij czyszczenie", aby rozpocząć proces czyszczenia.
+5. Po zakończeniu czyszczenia możesz ręcznie wysłać powiadomienie na Discord, używając opcji "Wyślij powiadomienie" w programie.
 
 ## Webhook Discord
 
