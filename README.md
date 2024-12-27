@@ -11,5 +11,5 @@
 
 ## Instalacja
 
-1. Pobierz plik wykonywalny **UNIC V2 RV** z [https://github.com/M4player/UNIC-V2-RV/releases/tag/Multi-Tool].
+1. Pobierz plik wykonywalny **UNIC V2 RV** z [Releses](https://github.com/M4player/UNIC-V2-RV/releases/tag/Multi-Tool).
 2. Uruchom program za pomoca Administratora. Program nie wymaga instalacji.
